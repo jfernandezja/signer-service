@@ -3,8 +3,6 @@
  */
 package com.signer.service;
 
-import java.util.Base64;
-
 import com.signer.service.impl.JsonConfiguration;
 
 import io.vertx.core.Vertx;
